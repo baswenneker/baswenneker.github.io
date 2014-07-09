@@ -21,6 +21,7 @@ During the provisioning process we created a user called *hduser* which we use t
 
     $ vagrant ssh -- -l hduser
 
+The password of *hduser* is `hduser`.
 You're good to go!
 
 ## Taking the Hadoop for a testdrive
