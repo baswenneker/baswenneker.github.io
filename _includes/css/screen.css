@@ -120,8 +120,10 @@ nav hr {
 }
 
 #post pre {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 13px;
   border: 1px solid #ddd;
-  background-color: #F2F2F2;
+  background-color: #f8f8f8;
   padding: 0 .4em;
   margin-bottom: 20px !important;
 }
@@ -133,8 +135,9 @@ nav hr {
 
 #post code {
   border: 1px solid #ddd;
-  background-color: #F2F2F2;
-  font-size: 85%;
+  background-color: #f8f8f8;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  /*font-size: 85%;*/
   padding: 0 .2em;
 }
 
