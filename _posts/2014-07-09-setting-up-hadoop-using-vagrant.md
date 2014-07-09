@@ -42,7 +42,7 @@ To check if all nodes are up and running use `jps` and see if the output is abou
     11708 ResourceManager
     11542 SecondaryNameNode
 
-You can also check the health of Hadoop by browsing to http://192.168.33.10:50070/ on the host machine.
+You can also check the health of Hadoop by browsing to [http://192.168.33.10:50070/](http://192.168.33.10:50070/) on the host machine.
 
 #### Create the input directory and wordcount file in HDFS
 Create the directory that contains the input files of which the words are counted (-p creates the full path). For more information about the HDFS Shell commands, see the [Hadoop File System Shell Guide](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/FileSystemShell.html "Hadoop File System Shell Guide")
