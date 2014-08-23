@@ -7,6 +7,14 @@
 * 8/17/2011
 */
 
+.img-center{
+  text-align: center;
+}
+
+p img {
+  display: inline-block;
+}
+}
 
 /* Table of Content
 ==================================================
